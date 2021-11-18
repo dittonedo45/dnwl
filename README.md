@@ -5,3 +5,4 @@ An Example of email forger, worlist generator. Take the idea and use it to your 
 
 ## Examples, 
  `gcc main.c && ./a.out foo bar`
+ ![example image](./dnwl.png)
